@@ -6,11 +6,7 @@ I use technology as a lever to bridge ambitious ideas with clean, resilient exec
 ---
 
 ### 🛠️ Tools of Leverage
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,postgres,git,linux,bash,docker&theme=dark" />
-  </a>
-</p>
+[![My Tools](https://skillicons.dev/icons?i=c,cpp,python,go,ts,nodejs,nextjs,postgres,mongodb,pytorch,tensorflow,scikitlearn,linux,arduino,raspberrypi,git&theme=dark&perline=8)](https://skillicons.dev)
 
 ---
 
