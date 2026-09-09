@@ -1,33 +1,20 @@
-<h1 align="center">Bridging complex theory with practical execution to drive technological progress.</h1>
+### Hey, I'm Aryan 👋
+
+I work at the layer where theory has to survive contact with production — data pipelines, systems code, and the tooling that holds the two together. Most of what I build starts as a question I couldn't answer with the tools I already had.
 
 ---
 
-## Engineering Approach
+### Core Infrastructure
 
-| ⚡ Execution-Oriented | 🏗️ Systems Thinking |
-| :--- | :--- |
-| Focused on writing clean, maintainable code and shipping reliably. | Applying resilient architecture principles from low-level execution to data pipelines. |
-| **🧠 Analytical Approach** | **🛠️ Builder's Mindset** |
-| Leveraging data engineering to uncover actionable insights. | Treating code as a tool to create value and drive real progress. |
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,postgres,git,linux&theme=dark)](https://skillicons.dev)
+
+Also working in Snowflake for warehousing and analytical workloads.
 
 ---
 
-## Core Infrastructure
+### Developer Telemetry
 
-### Logic & Computation
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Data & Storage
-
-![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-
-### Client & Interface
-
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-## Developer Telemetry
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AVTG-1&layout=compact&theme=transparent&hide_border=true) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AVTG-1&show_icons=true&theme=transparent&hide_border=true)
+<div align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVTG-1&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AVTG-1&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+</div>
