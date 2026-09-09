@@ -1,14 +1,12 @@
 ### Hey, I'm Aryan 👋
 
-I work at the layer where theory has to survive contact with production — data pipelines, systems code, and the tooling that holds the two together. Most of what I build starts as a question I couldn't answer with the tools I already had.
+I'm a computer science student at IIT Ropar interested in systems engineering, machine learning, and building data pipelines. I mostly work in Python and C++, with SQL and Snowflake on the data side.
 
 ---
 
 ### Core Infrastructure
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,js,postgres,git,linux&theme=dark)](https://skillicons.dev)
-
-Also working in Snowflake for warehousing and analytical workloads.
 
 ---
 
